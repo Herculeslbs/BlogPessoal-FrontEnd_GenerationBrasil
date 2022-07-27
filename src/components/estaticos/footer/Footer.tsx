@@ -28,9 +28,9 @@ function Footer() {
                             <Typography variant="subtitle2" align="center" gutterBottom style={{ color: "white"}} >Todos os direitos reservados © 2022</Typography>
                         </Box>
                         <Box>
-                            <a target="_blank" href="https://brasil.generation.org">
+                            
                                 <Typography variant="subtitle2" gutterBottom style={{ color: "white" }} align="center">Hercules Lima</Typography>
-                            </a>
+                            
                         </Box>
                     </Box>
                 </Grid>

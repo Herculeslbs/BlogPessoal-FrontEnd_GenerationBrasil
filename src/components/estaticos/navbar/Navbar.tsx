@@ -4,9 +4,9 @@ import { Box } from '@mui/material';
 function Navbar() {
     return (
         <>
-            <AppBar position="static">
+            <AppBar position="static"style={{backgroundColor:"#303F9F"}}>
                 <Toolbar variant="dense">
-                    <Box style={{ cursor: "pointer", marginRight:"90px" }}>
+                    <Box style={{ cursor: "pointer", marginRight:"90px"}}>
                         <Typography variant="h5" color="inherit">
                             Blog Pessoal
                         </Typography>
