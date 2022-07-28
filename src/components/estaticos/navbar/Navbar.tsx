@@ -6,7 +6,7 @@ function Navbar() {
         <>
             <AppBar position="static"style={{backgroundColor:"#303F9F"}}>
                 <Toolbar variant="dense">
-                    <Box style={{ cursor: "pointer", marginRight:"90px"}}>
+                    <Box style={{ cursor: "pointer", marginRight:"45%", padding:"2px"}}>
                         <Typography variant="h5" color="inherit">
                             Blog Pessoal
                         </Typography>
