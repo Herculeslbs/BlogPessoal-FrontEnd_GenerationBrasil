@@ -1,0 +1,9 @@
+.cusor{
+    cursor: pointer;
+    color: white;
+    padding: 2px;
+}
+.text-decorator-none{
+    text-decoration: none;
+    color: white;
+}
