@@ -15,7 +15,7 @@ function Navbar() {
                     </Box>
 
                     <Box display="flex" justifyContent="start">
-                        <Box mx={1} className='cursor'style={{ cursor: "pointer", padding:"2px" }}>
+                        <Box mx={1} className='cursor'>
                             <Typography variant="h6" color="inherit">
                                 Home
                             </Typography> 

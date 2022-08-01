@@ -1,5 +1,10 @@
 .texto{
     font-weight: bold !important;
+    color: #3F51B5;
+}
+
+.texto1{
+    color: black;
 }
 
 .imagem{

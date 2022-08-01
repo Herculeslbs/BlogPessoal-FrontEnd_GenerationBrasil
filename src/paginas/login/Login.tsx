@@ -23,9 +23,9 @@ function Login() {
                     </form>
                     <Box display='flex' justifyContent='center' marginTop={2}>
                         <Box marginRight={1}>
-                            <Typography variant='subtitle1' gutterBottom align='center' className='texto'>Não tem uma conta?</Typography>
+                            <Typography variant='subtitle1' gutterBottom align='center' className='texto1'>Não tem uma conta?</Typography>
                         </Box>
-                            <Typography variant='subtitle1' gutterBottom align='center' className='texto1'>Cadastra-se</Typography>
+                            <Typography variant='subtitle1' gutterBottom align='center' className='texto'>Cadastra-se</Typography>
                     </Box>
 
                 </Box>
