@@ -12,7 +12,7 @@ function Footer() {
                 <Grid alignItems="center" item xs={12}>
                     <Box className='box1'>
                         <Box paddingTop={1} display="flex" alignItems="center" justifyContent="center">
-                            <Typography variant="h5" align="center" gutterBottom className='texto'>Me siga nas redes sociais </Typography>
+                            <Typography variant="h5" align="center" gutterBottom className='texto3'>Me siga nas redes sociais </Typography>
                         </Box>
                         <Box display="flex" alignItems="center" justifyContent="center">
                             <a href="https://github.com/Herculeslbs" target="_blank">
@@ -24,13 +24,13 @@ function Footer() {
                             </a>
                         </Box>
                     </Box>
-                    <Box className='box2'style={{ backgroundColor: "#303F9F", height: "60px" }}>
+                    <Box className='box2'>
                         <Box paddingTop={1}>
-                            <Typography variant="subtitle2" align="center" gutterBottom className='texto' >Todos os direitos reservados © 2022</Typography>
+                            <Typography variant="subtitle2" align="center" gutterBottom className='texto4' >Todos os direitos reservados © 2022</Typography>
                         </Box>
                         <Box>
                             
-                                <Typography variant="subtitle2" gutterBottom className='texto' align="center">Hercules Lima</Typography>
+                                <Typography variant="subtitle2" gutterBottom className='texto4' align="center">Hercules Lima</Typography>
                             
                         </Box>
                     </Box>

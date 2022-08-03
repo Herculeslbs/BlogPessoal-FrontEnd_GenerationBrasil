@@ -49,7 +49,7 @@ function CadastroUsuario(){
         e.preventDefault()
         if (confirmarSenha == user.senha) {
             cadastroUsuario(`/usuarios/cadastrar`, user, setUserResult)
-            alert('Usuario cadastrado com sucesso')
+            alert('Usuário cadastrado com sucesso')
         } else {
             alert('Dados inconsistentes. Favor verificar as informações de cadastro.')
         }
