@@ -1,8 +1,14 @@
-.cusor{
-    cursor: pointer;
-    color: white;
-    padding: 2px;
+.cursor{
+    cursor: pointer !important;
+    padding: 5px !important;   
+    margin-left: 10px !important;
 }
+
+.cursor1{    
+    padding: 5px !important;   
+    margin-right: 47% !important;
+}
+
 .text-decorator-none{
     text-decoration: none;
     color: white;

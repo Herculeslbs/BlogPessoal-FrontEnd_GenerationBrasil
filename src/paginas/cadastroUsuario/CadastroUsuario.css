@@ -1,19 +1,19 @@
-.texto{
-    font-weight: bold !important;
-    color: #3F51B5 !important;
-}
-
-.texto1{
-    font-weight: bold !important;
-}
-
-.imagem{
+.imagem2{
     background-image: url(https://i.pinimg.com/564x/4f/07/96/4f079675d778f257a90b539e4a066ecb.jpg);
     background-repeat:no-repeat;
     width: 100vh;
     min-height: 100vh;
     background-size: container;
     background-position: center;
+}
+
+.texto2{
+    font-weight: bold !important;
+    
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
 }
 
 .text-decorator-none{

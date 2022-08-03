@@ -8,7 +8,7 @@ function Navbar() {
         <>
             <AppBar position="static"style={{backgroundColor:"#303F9F"}}>
                 <Toolbar variant="dense">
-                    <Box className='cursor'style={{marginRight:"45%"}}>
+                    <Box className='cursor1'>
                         <Typography variant="h5" color="inherit">
                             Blog Pessoal
                         </Typography>
@@ -32,7 +32,7 @@ function Navbar() {
                         </Box>
                         <Box mx={1} className='cursor'>
                             <Typography variant="h6" color="inherit">
-                                Cadastrar Temas
+                                CadastrarTemas
                             </Typography> 
                         </Box>
                         <Link to='/login' className='text-decorator-none'>
