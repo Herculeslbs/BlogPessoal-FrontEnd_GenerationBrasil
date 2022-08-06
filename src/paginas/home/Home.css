@@ -1,5 +1,8 @@
 .caixa{
     background-color: #3F51B5; 
+    position: static;
+    width: 100vh;
+    height: 120vh;
 }
 
 .titulo{

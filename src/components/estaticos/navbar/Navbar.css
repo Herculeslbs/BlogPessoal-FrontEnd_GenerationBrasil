@@ -1,15 +1,13 @@
 .cursor{
     cursor: pointer !important;
     padding: 5px !important;   
-    margin-left: 10px !important;
+    margin-left: 5px !important;
+    text-decoration: none !important;
+    color: white !important;
+   
 }
 
 .cursor1{    
     padding: 5px !important;   
     margin-right: 47% !important;
-}
-
-.text-decorator-none{
-    text-decoration: none;
-    color: white;
 }
