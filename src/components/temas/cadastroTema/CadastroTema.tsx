@@ -56,6 +56,7 @@ function CadastroTema() {
         setTema({
             ...tema,
             [e.target.name]: e.target.value,
+            postagem:[{}]
         })
     }
 
@@ -65,7 +66,7 @@ function CadastroTema() {
 
         if (id !== undefined) {
             
-            put(`/tema`, tema, setTema, {
+            await put(`/tema`, tema, setTema, {
                 headers: {
                     'Authorization': token
                 }
@@ -81,7 +82,7 @@ function CadastroTema() {
                 progress: undefined,
             });
         } else {
-            post(`/tema`, tema, setTema, {
+            await post(`/tema`, tema, setTema, {
                 headers: {
                     'Authorization': token
                 }
