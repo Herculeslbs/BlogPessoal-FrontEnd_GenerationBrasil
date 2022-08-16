@@ -27,8 +27,8 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
- <a href="#features">Características</a> •
- <a href="#revised-concepts">Conceitos revisados</a> • 
+ <a href="#características">Características</a> •
+ <a href="#conceitos-revisados">Conceitos revisados</a> • 
  <a href="#installation">Instalações</a> • 
  <a href="#getting-started">Iniciar</a> • 
  <a href="#technologies">Tecnologias</a> • 
