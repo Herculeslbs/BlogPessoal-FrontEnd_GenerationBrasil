@@ -36,12 +36,12 @@
  <a href="#licenças">Licenças</a>
 </p>
 
-## 👨🏻‍💻LINK
+## 👨🏻‍💻Link
 
 <div>
     <p align="center">
     Link do projeto Hospedado na Rede:<br>
-        [Blog Pessoal](https://blog-pessoal-kappa.vercel.app/)
+        https://blog-pessoal-kappa.vercel.app/
     </p>
 </div>
 
