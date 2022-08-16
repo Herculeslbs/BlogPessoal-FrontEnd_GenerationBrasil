@@ -1,13 +1,13 @@
 <h1 align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="Logo React" width="240">
     <br><br>
-    Blog Pessoal Generation
+   Projeto Blog Pessoal 
 </h1>
 
 <div>
 <p align="center">
-    <a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=Author&message=Yuri&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Author: Yuri">
+    <a href="https://www.linkedin.com/in/herculeslbs/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=Author&message=Yuri&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Autor: Hercules">
     </a>
     <a>
         <img src="https://img.shields.io/static/v1?label=Language&message=React&color=aquamarine&style=for-the-badge&logo=React" alt="Language: React">
