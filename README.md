@@ -26,6 +26,7 @@
 ## Índice
 
 <p align="center">
+ <a href="#link">Link</a> •
  <a href="#sobre">Sobre</a> •
  <a href="#características">Características</a> •
  <a href="#conceitos-revisados">Conceitos revisados</a> • 
@@ -34,6 +35,15 @@
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#licenças">Licenças</a>
 </p>
+
+## 👨🏻‍💻LINK
+
+<div>
+    <p align="center">
+    Link do projeto Hospedado na Rede:<br>
+        [Blog Pessoal](https://blog-pessoal-kappa.vercel.app/)
+    </p>
+</div>
 
 ## 📌Sobre
 
@@ -117,6 +127,6 @@ $ yarn start
 
 ## 📝Licenças
 
-Lançado em 2022.
-Este projeto está sob a licença do MIT.
+Lançado em 2022.<br>
+Este projeto está sob a licença do MIT.<br>
 Feito com ❤ por [Hercules Lima](https://github.com/Herculeslbs) 🚀.
