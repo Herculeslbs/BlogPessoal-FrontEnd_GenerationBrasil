@@ -68,7 +68,7 @@
 - Postagens, temas e CRUD do usuário
 - Alertas personalizados
 - Controle de usuários logados
-- 
+
 ## 📕Instalações
 
 **Você deve instalar**
