@@ -29,10 +29,10 @@
  <a href="#sobre">Sobre</a> •
  <a href="#características">Características</a> •
  <a href="#conceitos-revisados">Conceitos revisados</a> • 
- <a href="#installation">Instalações</a> • 
- <a href="#getting-started">Iniciar</a> • 
- <a href="#technologies">Tecnologias</a> • 
- <a href="#license">Licença</a>
+ <a href="#instalações">Instalações</a> • 
+ <a href="#iniciar">Iniciar</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#licenças">Licenças</a>
 </p>
 
 ## 📌Sobre
@@ -59,62 +59,64 @@
 - Alertas personalizados
 - Controle de usuários logados
 - 
-## 📕Installation
+## 📕Instalações
 
-**You must have already installed**
+**Você deve instalar**
 - [Node.js](https://nodejs.org/en/)
-- [Npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
+- [Npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
 
-**Recommendations**
--   It is recommended that you have installed Google Chrome or Edge
--   I recommend using VSCode as development IDE
+**Recomendações**
+-   É recomendável que você tenha instalado o Google Chrome ou Edge
+-   Eu recomendo usar o VSCode como IDE de desenvolvimento
 
-**Let's divide it into 2 steps.**
-1. Clone this repository
-2. Install dependencies
-3. Initializing the BackEnd
+**Vamos dividir em 2 etapas**
+1. Clone este repositório
+2. Instale as dependências
+3. Inicialize o Back-End
   ---
-#### 1. Clone this repository
+#### 1. Clone este repositório
 ```
-$ git clone https://github.com/Yuri-stack/BlogPessoalGenReact
+$ git clone https://github.com/Herculeslbs/BlogPessoal-FrontEnd_GenerationBrasil
 ```
 ---
-### 2. Install the dependencies
+### 2. Instale as dependências
 ```
 $ npm install
 ```
-or
+ou
 ```
 $ yarn
 ```
 
-*Make sure your internet is stable, as this may take a while* 
+*Verifique se sua internet está estável, pois isso pode demorar um pouco*
 
-### 3. Initializing the BackEnd
+### 3. Inicializando o Back-End
 
-If you have a ***BackEnd local***, start it before the React Project
+Se você tiver um ***Back-End local***, inicie-o antes do React Project
 
-If you have a ***Hosted BackEnd***, access the Service file and change the BaseUrl and routes, and change Models of project according to your BackEnd
+Se você possui um ***Hosted Back-End***, acesse o arquivo Service e altere o BaseUrl e as rotas, e altere os Modelos de projeto de acordo com seu Back-End
 
-## 🎮Getting Started
+## 🎮Iniciar
 
-1. Run the backend or configure as explained above 
+1. Execute o Back-End ou configure conforme explicado acima 
 
-2. Run the project
+2. Execute o projeto
 ```
 $ yarn start
 ```
-3. Now, open your browser and navigate to: http://localhost:3000
+3. Agora, abra seu navegador e navegue até: http://localhost:3000
 
-## 🌐Technologies
+## 🌐Tecnologias
 
 - [React](https://pt-br.reactjs.org/)
-- [Axios](https://axios-http.com/docs/intro)
-- [Material-UI](https://mui.com/pt/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Axios](https://axios-http.com/docs/intro)
+- [Redux](https://redux.js.org/)
+- [Material-UI](https://mui.com/pt/)
 
-## 📝License
 
-Released in 2021.
-This project is under the MIT license.
-Made with love by [Yuri Oliveira](https://github.com/Yuri-stack) 🚀.
+## 📝Licenças
+
+Lançado em 2022.
+Este projeto está sob a licença do MIT.
+Feito com ❤ por [Hercules Lima](https://github.com/Herculeslbs) 🚀.
