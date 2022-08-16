@@ -22,9 +22,9 @@
 </p>
 
 </div>
-
+<p align="center">
 ## Índice
-
+</p>
 <p align="center">
  <a href="#about">Sobre</a> •
  <a href="#features">Características</a> •
