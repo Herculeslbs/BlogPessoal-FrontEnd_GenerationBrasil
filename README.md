@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/herculeslbs/" target="_blank">
         <img src="https://img.shields.io/static/v1?label=Autor&message=Hercules&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Autor: Hercules">
     </a>
-    <a>
+    <a href="#">
         <img src="https://img.shields.io/static/v1?label=Language&message=React&color=aquamarine&style=for-the-badge&logo=React" alt="Language: React">
     </a>
     <a href="#">
@@ -23,41 +23,42 @@
 
 </div>
 
-## Table of Contents
+## Índice
 
 <p align="center">
- <a href="#about">About</a> •
- <a href="#features">Features</a> •
- <a href="#revised-concepts">Revised Concepts</a> • 
- <a href="#installation">Installation</a> • 
- <a href="#getting-started">Get Started</a> • 
- <a href="#technologies">Technologies</a> • 
- <a href="#license">License</a>
+ <a href="#about">Sobre</a> •
+ <a href="#features">Características</a> •
+ <a href="#revised-concepts">Conceitos revisados</a> • 
+ <a href="#installation">Instalações</a> • 
+ <a href="#getting-started">Iniciar</a> • 
+ <a href="#technologies">Tecnologias</a> • 
+ <a href="#license">Licença</a>
 </p>
 
-## 📌About
+## 📌Sobre
 
 <div>
     <p align="center">
-        Construction of a Personal Blog using React, a project developed at Generation's Bootcamp with the aim of learning.
+        Construção de um Blog Pessoal utilizando o Spring Boot para o desenvolvimento Back-end, e React para o desenvolvimento Front-end, projeto desenvolvido no curso de Desenvolvedor Java full stack Jr, na Generation Brasil com objetivo de aprendizado.
     </p>
 </div>
 
-## 🚀Features
+## 🚀Características
 
-- Creation, Editing and Deletion of Posts, Themes and Users.
-- Conditional Rendering
+- Criação, Edição e Exclusão de Posts, Temas e Usuários.
+- Renderização condicional.
 
-## 👓Revised Concepts
+## 👓Conceitos revisados
 
-- React Componentization
+- React Componentização
 - Redux
-- Axios for Routes Control
-- Stylization using Material-UI
-- API consumption
-- Posts, Themes and User CRUD
-- Custom Alerts
-- Control of Logged Users
+- Axios, Routes Control
+- Estilização usando Material-UI
+- Consumo de API
+- Postagens, temas e CRUD do usuário
+- Alertas personalizados
+- Controle de usuários logados
+- 
 ## 📕Installation
 
 **You must have already installed**
