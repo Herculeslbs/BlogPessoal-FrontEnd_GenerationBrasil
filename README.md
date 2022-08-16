@@ -22,11 +22,11 @@
 </p>
 
 </div>
-<p align="center">
+
 ## Índice
-</p>
+
 <p align="center">
- <a href="#about">Sobre</a> •
+ <a href="#sobre">Sobre</a> •
  <a href="#features">Características</a> •
  <a href="#revised-concepts">Conceitos revisados</a> • 
  <a href="#installation">Instalações</a> • 
