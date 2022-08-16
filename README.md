@@ -7,7 +7,7 @@
 <div>
 <p align="center">
     <a href="https://www.linkedin.com/in/herculeslbs/" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=Author&message=Yuri&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Autor: Hercules">
+        <img src="https://img.shields.io/static/v1?label=Autor&message=Hercules&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Autor: Hercules">
     </a>
     <a>
         <img src="https://img.shields.io/static/v1?label=Language&message=React&color=aquamarine&style=for-the-badge&logo=React" alt="Language: React">
